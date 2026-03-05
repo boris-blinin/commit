@@ -13,6 +13,7 @@ class DatabaseSeeder extends Seeder
 {
     use WithoutModelEvents;
 
+
     /**
      * Seed the application's database.
      */
