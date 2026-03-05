@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+
 @section('main')
 
     <div class="flex bg-blue-800 h-15">

@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+
 @section('main')
     <div class="flex bg-blue-800 h-15">
         <h1 class="text-4xl text-white flex items-center justify-center pl-2.5">Выдачи СИЗ</h1>
